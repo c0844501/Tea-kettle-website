@@ -1,0 +1,90 @@
+body{ background-color:yellow;
+}
+#container	{
+	max-width: 70%;
+	margin:auto;}
+	header {
+	background-color:powderblue;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px ;
+	box-shadow: 5px;
+	padding:10px;
+	}
+	
+	nav {background-color:powderblue;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 10px ;
+	box-shadow: 5px;
+	padding:20px;
+	font-size:1em;
+	text-align:center;
+	}
+	
+	#main{ 
+	display:block;
+	background-color:powderblue;
+	font-size:1em;
+	text-align:center;
+	margin:right;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+	box-shadow:5px;
+	box-align:center;
+	}
+
+	.flickr{
+		text-align: center;
+		padding: 20px;
+		font-size: 20px;
+	}
+	
+	.flickr h1{
+		font-size: 30px;
+		color: #789887;
+		padding-top: 20px;
+	}
+	
+	.flickr #search{
+		font-size: 20px;
+		color: #85ac10;
+		border: 2px solid #85ac10;
+		padding: 5px 20px 5px 20px;
+	}
+	
+	.flickr #btnSearch{
+		background-color: #85ac10;
+		font-size: 17px;
+		color: #fff;
+		border: 2px solid #85ac10;
+		padding: 5px 10px;
+		transition: 1s all;
+		cursor: pointer;
+	}
+	
+	.flickr #btnSearch:hover{
+		background-color: #eb7620;
+		border: 0;
+		color: #fff;
+		font-size: 20px;
+	}
+
+	video{
+		max-width: 100%;
+	}
+	
+	audio{
+		align-items: center;
+		
+	}
+	footer {
+	background-color:powderblue;
+	margin-top: 20px;
+    border-radius: 5px ;
+	padding:5px;
+	box-shadow: 5px;
+	font-size: 0.70em;
+	text-align:center;
+	}

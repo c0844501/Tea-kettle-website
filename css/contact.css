@@ -1,0 +1,78 @@
+body{ background-color:yellow;
+}
+#container	{
+	max-width: 50%;
+	margin:auto;}
+	header {
+	background-color:powderblue;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px ;
+	box-shadow: 5px;
+	padding:10px;
+	}
+	
+	nav {background-color:powderblue;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 10px ;
+	box-shadow: 5px;
+	padding:20px;
+	font-size:1em;
+	text-align:center;
+	}
+	
+	main {
+        display: block;
+        font-family: Verdana, Arial, sans-serif;	
+        font-size: 1em;
+        margin-top: 0.5em;
+        padding: 1em;
+        border-radius: 2em 0 2em 0;
+        background-color: #FFFFFF;
+        opacity: 0.85;
+    }
+    
+    main a {
+        background-color: #9D9D93;
+        border-radius: 1em;
+        color: #FFFFFF;
+        font-weight: bold;
+        padding: 0.5em;
+        text-decoration: none;
+    }
+    aside {
+        font-style: italic;
+    }
+    
+    /* Style rule for input, select, and textarea form elements */
+    input, select, textarea {
+        display: block;
+        margin-bottom: 1em;
+    }
+    
+    /* Style rule for label element */
+    label {
+        display: block;
+    }
+    
+    /* Style rule for unordered list within a form */
+    form ul {
+        list-style-type: none;
+    }
+    
+    /* Style rule for chkbx class */
+    .chkbx {
+        display: inline-block;
+    }
+    
+	
+	footer {
+	background-color:powderblue;
+	margin-top: 20px;
+    border-radius: 5px ;
+	padding:5px;
+	box-shadow: 5px;
+	font-size: 0.70em;
+	text-align:center;
+	}

@@ -1,0 +1,68 @@
+body{ background-color:yellow;
+}
+#reason_to_buy li{
+	list-style-position: inside;
+	font-size: 0.4cm;
+	
+}
+
+#guarentee_policy li{
+	list-style-position: inside;
+	font-size: 0.4cm;
+	
+}
+
+#container	{
+	max-width: 50%;
+	margin:auto;}
+	header {
+	background-color:powderblue;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px ;
+	box-shadow: 5px;
+	padding:10px;
+	text-align: center;
+	}
+	ol li{
+		list-style-position: inside;
+		size: 1cm ;
+		
+	}
+	img{
+		text-align: center;
+		float: center;
+
+	}
+	
+	nav {background-color:powderblue;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 10px ;
+	box-shadow: 5px;
+	padding:20px;
+	font-size:1em;
+	text-align:center;
+	}
+	
+	#main{ 
+	display:block;
+	background-color:powderblue;
+	font-size:1em;
+	text-align:center;
+	margin:right;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+	box-shadow:5px;
+	box-align:center;
+	}
+	footer {
+	background-color:powderblue;
+	margin-top: 20px;
+    border-radius: 5px ;
+	padding:5px;
+	box-shadow: 5px;
+	font-size: 0.70em;
+	text-align:center;
+	}

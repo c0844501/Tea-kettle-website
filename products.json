@@ -1,0 +1,256 @@
+{"PRODUCTS":[
+	{
+		"NAME" : "Classic Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "100",
+		"Size" : "1 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Classic Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "150",
+		"Size" : "1 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Classic Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "50",
+		"Size" : "500 mL",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Classic Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "150",
+		"Size" : "500 mL",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Classic Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "20",
+		"Size" : "2 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Classic Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "20",
+		"Size" : "2 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "130",
+		"Size" : "1 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "120",
+		"Size" : "1 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "90",
+		"Size" : "500 mL",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "78",
+		"Size" : "500 ml",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "15",
+		"Size" : "2 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "10",
+		"Size" : "2 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Semi-Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "100",
+		"Size" : "1 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Semi-Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "980",
+		"Size" : "1 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Semi-Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "35",
+		"Size" : "500 mL",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Semi-Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "40",
+		"Size" : "500 mL",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Semi-Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "8",
+		"Size" : "2 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Semi-Electric Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "7",
+		"Size" : "2 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Smart Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "90",
+		"Size" : "1 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Smart Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "95",
+		"Size" : "1 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Smart Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "70",
+		"Size" : "500 mL",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Smart Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "78",
+		"Size" : "500 mL",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Smart Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "11",
+		"Size" : "2 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Smart Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "8",
+		"Size" : "2 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Premium Tea ketttle",
+		"STOCK" : "Not Available",
+		"Quantity" : "0",
+		"Size" : "1 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Premium Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "5",
+		"Size" : "1 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Premium Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "7",
+		"Size" : "500 mL",
+        "Colour" : " Green"
+	},
+    {
+		"NAME" : "Premium Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "8",
+		"Size" : "500 mL",
+        "Colour" : " Blue"
+	},
+    {
+		"NAME" : "Premium Tea ketttle",
+		"STOCK" : "Not Available",
+		"Quantity" : "0",
+		"Size" : "2 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Premium Tea ketttle",
+		"STOCK" : "Not Available",
+		"Quantity" : "0",
+		"Size" : "2 L",
+        "Colour" : " White"
+	},
+    {
+		"NAME" : "Indian Style Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "10",
+		"Size" : "1 L",
+        "Colour" : " Silver"
+	},
+    {
+		"NAME" : "Indian Style Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "9",
+		"Size" : "1 L",
+        "Colour" : " Purple"
+	},
+    {
+		"NAME" : "Indian Style Tea ketttle",
+		"STOCK" : "Not Available",
+		"Quantity" : "0",
+		"Size" : "500 mL",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Indian Style Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "8",
+		"Size" : "500 mL",
+        "Colour" : " White and Blue"
+	},
+    {
+		"NAME" : "Indian Style Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "11",
+		"Size" : "2 L",
+        "Colour" : " Red"
+	},
+    {
+		"NAME" : "Indian Style Tea ketttle",
+		"STOCK" : "Available",
+		"Quantity" : "8",
+		"Size" : "2 L",
+        "Colour" : " White"
+	}
+
+]
+}

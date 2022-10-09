@@ -1,0 +1,75 @@
+body{ background-color:yellow;
+}
+#container	{
+	max-width: 50%;
+	margin:auto;}
+	header {
+	background-color:powderblue;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px ;
+	box-shadow: 5px;
+	padding:10px;
+	}
+	video{
+		max-width: 100%;
+	}
+	
+	audio{
+		align-items: center;
+		
+	}
+	#colorTrans{
+		height: 150px;
+		background-color: #000; 
+		position: relative;
+	
+	}
+	
+	#colorTrans button{
+		position: absolute;
+		top: 35%;
+		left: 25%;
+		background-color: #127620;;
+		border: none;
+		border-radius: 20px;
+		padding: 10px 50px 10px 50px;
+		cursor: pointer;
+		font-size: 20px;
+		font-weight: 700;
+		transition: 1s all;
+		color: #fff;
+	}
+	#colorTrans button:hover{
+		font-size: 22px;
+		border: 2px solid #fff;
+	}
+
+	
+	nav {background-color:powderblue;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 10px ;
+	box-shadow: 5px;
+	padding:20px;
+	font-size:1em;
+	text-align:center;
+	}
+	
+	.desktop {
+        display: none;
+    }
+
+    .desktop {
+		display: inline;
+	}
+	
+	footer {
+	background-color:powderblue;
+	margin-top: 20px;
+    border-radius: 5px ;
+	padding:5px;
+	box-shadow: 5px;
+	font-size: 0.70em;
+	text-align:center;
+	}
